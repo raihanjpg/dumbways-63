@@ -23,7 +23,6 @@ body{
 }
 .box-img{
     padding-left: 45px;
-    
     float: left;
     width: 45%;
 }
@@ -56,5 +55,5 @@ body{
     color: #030303;
     font-size: 28px;
     text-align: center;
-    line-height: 50px0;
+    line-height: 50px;
 }
