@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:content-box;
+}
+body{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start ;
+    min-height: 100vh;
+    
+}
+.box{
+    max-width: 80%;
+    height: auto;
+    display: flex;
+    align-items:center;   
+    gap: 20px;
+    margin: 50px 10%;
+    box-shadow: 0px 27px 87px rgba(0,0,0,0.37);
+    border-radius: 15px;
+    background-color:  white;
+    
+}
+.profile {
+    flex: 1;
+    text-align: center;
+    margin-bottom: 25px
+}
+.profile img {
+    width: 350px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+.box-text{
+    flex: 1;
+    margin-right: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 50%;
+    float: left;
+    padding: 50px 70px 50px 35px;
+}
+.box-text h1{
+    padding-top: 25px;
+    margin-bottom: 25px;
+    font-size: 48px;
+    font-weight: bold;
+    color: #151515;
+}
+.box-text a{
+    
+    padding-top: 25px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #151515;
+    line-height: 30px;
+  
+}
+.box-text .social a{
+    font-size: 30px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: #030303;
+    align-items: center;
+    text-align: center;
+    line-height: 50px;
+}
+.btn{
+    background-color:#5a5a70;
+    color: white;
+    padding:10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    text-transform: lowercase;
+    border: none;
+    cursor:pointer;
+    margin-top: 15px;
+    font-size: 16px;
+}
+.btn-cv{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding:10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-transform: lowercase;
+    border: none;
+    cursor:pointer;
+    margin-top: 15px;
+    font-size: 16px;
+
+}
