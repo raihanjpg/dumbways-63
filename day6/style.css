@@ -5,6 +5,7 @@ body {
     background:linear-gradient(to bottom, #e0e0e0 23%, #e0e0e0 23%, #f8f8f8 23%);
 }
 
+
 .container{
     max-width: 500px;
     margin: auto;
@@ -52,6 +53,8 @@ h1, h2 {
     text-align: center;
     font-weight: bold;
     margin-top: 40px;
+    font-size: xx-large;
+    margin-bottom: 30px;
 }
 .label {
     font-weight: bold;  
