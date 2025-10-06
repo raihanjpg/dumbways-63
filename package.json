@@ -1,0 +1,25 @@
+{
+  "name": "batch.63",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raihanjpg/dumbways-63.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raihanjpg/dumbways-63/issues"
+  },
+  "homepage": "https://github.com/raihanjpg/dumbways-63#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "hbs": "^4.2.0"
+  }
+}

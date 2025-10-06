@@ -22,7 +22,7 @@ let projectCard = [
     { image: "https://i.pinimg.com/1200x/0b/5a/3f/0b5a3ff8a39162c938bdd87a44cf1d91.jpg",
     title: "Dumbways web app -2025",
     duration: "1 bulan",
-    description: "Nokia is a Finnish multinational corporation founded on 12 May 1865 as a single paper mill operation. Through the 19th century the company expanded, branching into several different products. In 1967, the Nokia corporation was formed. In the late 20th century, the company took advantage of the increasing popularity of computer and mobile phones." }
+    description: "Nokia is a Finnish multinational corporation founded on 12 May 1865 as a single paper mill operation. Through the 19th century the company expanded, branching into several different products. In 1967, the Nokia corporation was formed. In the late 20th century, the company took advantage of the increasing popularity of computer and mobile phones. " }
 ];
 
 // Elemen target di HTML
